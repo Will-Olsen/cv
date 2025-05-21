@@ -19,6 +19,8 @@ Lecturer and Senior Research Officer (Level B) at the School of Pharmacy and Pha
 
 Research at the intersection of pharmacy practice and bioethics.
 
+Teaching medicines management and ethical-decision making.
+
 
 ### Research interests
 
@@ -177,9 +179,5 @@ A full list of my publications is available [online via ORCID](https://orcid.org
 `2023`
 Olsen, WM., Freeman, CR., Adewumi, A., La Caze, A., *A scoping review of health system guidelines for pharmacist responsibilities when dispensing opioids*, Exploratory Research in Clinical and Social Pharmacy, [10.1016/j.rcsop.2023.100382](https://www.sciencedirect.com/science/article/pii/S2667276623001634?via%3Dihub)
 
-
-### Footer
-
-Last updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
 
