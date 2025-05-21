@@ -28,22 +28,59 @@ Normative ethics, pharmacy practice, professional responsibility, philosophy of 
 ## Education
 
 `2014-2018`
-__Bachelor of Pharmacy (Honours)__
-Major in Clinical and Experimental Therapeutics
-The University of Queensland
+__The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
+
+- Bachelor of Pharmacy (Honours)
+
+- Major in Clinical and Experimental Therapeutics
 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021-2025`
+__The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
 
-- Sizar
+- Doctor of Philosophy
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Thesis: Pharmacy Ethics and the Opioid Crisis
 
-- Fellow
+## Qualifications, Certificates and Professional Development Activities
 
+`2019-Present`
+__Pharmacist__ General Registration (AHPRA)
 
+- PHA0002250329
+
+`2023-Present`
+__First Aid, CPR Certification__
+
+`2024-Present`
+__Mental Health First Aid Accreditation__ Mental Health First Aid Australia
+
+`2021`
+__Tutors@UQ__ The University of Queensland (ITaLI)
+
+`2024`
+__Graduate Teaching Associates program__ The University of Queensland (ITaLI)
+
+## Professional Experience
+
+`2025-Present`
+__Lecturer (Level B)__
+
+- UQ School of Pharmacy and Pharmaceutical Sciences
+
+- Course Coordinator: PHRM1203, PHRM7203
+
+`2025-Present`
+__Senior Research Officer (Level B)__
+
+- UQ School of Pharmacy and Pharmaceutical Sciences
+
+`2024-2025`
+__Research Administrator__
+
+- RECARD: REducing hospital re-admission for high-risk CARDiology patients 
+  
+- UQ School of Pharmacy and Pharmaceutical Sciences
 
 ## Awards
 
