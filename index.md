@@ -137,52 +137,43 @@ __Regular attendance at the UQ School of Pharmacy and Pharmaceutical Sciences se
 ## Presentations
 
 `2022`
+__APSA-ASCEPT 2022 Joint Conference__
+
+- A scoping review of health system guidelines for pharmacist responsibilities when dispensing opioids (Poster presentation)
+
+`2023`
+__UQ Three Minute Thesis Competition__
+
+- Pharmacy Ethics and the Opioid Crisis (Oral presentation)
+
+`2023`
+__FIP Congress 2023__
+
+- Pharmacists are responsible for patient outcomes when dispensing opioids (Poster presentation)
+
+`2024`
+__School of Pharmacy Research Retreat__
+
+- A model of shared responsibility in pharmacy practice (Oral presentation)
+
+`2024`
+__ASCEPT, APFP & APSA Joint Congress 2024__
+
+- A model of shared responsibility in pharmacy practice (Oral presentation)
 
 
-## Awards
+## Key publications
 
-`2012`
-President, *Royal Society*, London, UK
+A full list of my publications is available [online via ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7719-3275)
 
-Associate, *French Academy of Science*, Paris, France
+### Journal articles
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2023`
+Olsen, WM., Freeman, CR., Adewumi, A., La Caze, A., *A scoping review of health system guidelines for pharmacist responsibilities when dispensing opioids*, Exploratory Research in Clinical and Social Pharmacy, [10.1016/j.rcsop.2023.100382](https://www.sciencedirect.com/science/article/pii/S2667276623001634?via%3Dihub)
 
 
-## Occupation
+### Footer
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: "`r format(Sys.time(), '%d %B, %Y')`"
 
 
