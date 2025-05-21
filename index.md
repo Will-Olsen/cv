@@ -31,7 +31,6 @@ Normative ethics, pharmacy practice, professional responsibility, philosophy of 
 __The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
 
 - Bachelor of Pharmacy (Honours)
-
 - Major in Clinical and Experimental Therapeutics
 
 
@@ -39,7 +38,6 @@ __The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
 __The University of Queensland__ School of Pharmacy and Pharmaceutical Sciences
 
 - Doctor of Philosophy
-
 - Thesis: Pharmacy Ethics and the Opioid Crisis
 
 ## Qualifications, Certificates and Professional Development Activities
@@ -67,7 +65,6 @@ __Graduate Teaching Associates program__ The University of Queensland (ITaLI)
 __Lecturer (Level B)__
 
 - UQ School of Pharmacy and Pharmaceutical Sciences
-
 - Course Coordinator: PHRM1203, PHRM7203
 
 `2025-Present`
@@ -75,12 +72,25 @@ __Senior Research Officer (Level B)__
 
 - UQ School of Pharmacy and Pharmaceutical Sciences
 
+`2023-Present`
+__Guest Lecturer__
+
+- UQ School of Nursing, Midwifery and Social Work
+
 `2024-2025`
 __Research Administrator__
 
 - RECARD: REducing hospital re-admission for high-risk CARDiology patients 
-  
 - UQ School of Pharmacy and Pharmaceutical Sciences
+
+`2021-2025`
+__Casual Academic__
+
+- UQ School of Pharmacy and Pharmaceutical Sciences
+
+`2020-2022`
+__Pharmacist in Charge__
+
 
 ## Awards
 
