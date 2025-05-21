@@ -62,35 +62,36 @@ __Graduate Teaching Associates program__ The University of Queensland (ITaLI)
 ## Professional Experience
 
 `2025-Present`
-__Lecturer (Level B)__
+__Lecturer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
-- UQ School of Pharmacy and Pharmaceutical Sciences
 - Course Coordinator: PHRM1203, PHRM7203
 
 `2025-Present`
-__Senior Research Officer (Level B)__
-
-- UQ School of Pharmacy and Pharmaceutical Sciences
+__Senior Research Officer (Level B)__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 `2023-Present`
-__Guest Lecturer__
-
-- UQ School of Nursing, Midwifery and Social Work
+__Guest Lecturer__ UQ School of Nursing, Midwifery and Social Work
 
 `2024-2025`
-__Research Administrator__
+__Research Administrator__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 - RECARD: REducing hospital re-admission for high-risk CARDiology patients 
-- UQ School of Pharmacy and Pharmaceutical Sciences
+
 
 `2021-2025`
-__Casual Academic__
-
-- UQ School of Pharmacy and Pharmaceutical Sciences
+__Casual Academic__ UQ School of Pharmacy and Pharmaceutical Sciences
 
 `2020-2022`
-__Pharmacist in Charge__
+__Pharmacist in Charge__ Wholelife Pharmacy West End
 
+`2019`
+__Intern Pharmacist__ The Valley Discount Drug Store
+
+
+## Professional Service
+
+`2024-Present`
+__Committee Member__ Metro South Human Research Ethics Committee
 
 ## Awards
 
