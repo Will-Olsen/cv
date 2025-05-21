@@ -1,34 +1,37 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: William Manning Olsen
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# William Manning Olsen
+Pharmacist, Pharmacy Ethicist, Lecturer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="williamhinton99@gmail.com">williamhinton99@gmail.com</a>
+| <a href="https://williamolsen.substack.com/">My substack page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Lecturer and Senior Research Officer (Level B) at the School of Pharmacy and Pharmaceutical Sciences at the University of Queensland.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Research at the intersection of pharmacy practice and bioethics.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Normative ethics, pharmacy practice, professional responsibility, philosophy of responsibility.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+__Bachelor of Pharmacy (Honours)__
+Major in Clinical and Experimental Therapeutics
+The University of Queensland
+
 
 `June 1661 - now`
 __Trinity College, Cambridge__
