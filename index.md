@@ -93,6 +93,52 @@ __Intern Pharmacist__ The Valley Discount Drug Store
 `2024-Present`
 __Committee Member__ Metro South Human Research Ethics Committee
 
+`2024`
+__Co-convener__ ADeN Annual Meeting 2024
+
+`2024`
+__Grant Review Committee Member__ Metro South Health Research Support Scheme
+
+`Ongoing`
+__Peer Reviewer__
+
+- BMC Medical Ethics (1x Review)
+- Exploratory Research in Clinical and Social Pharmacy (5x Reviews)
+- Drug and Alcohol Review (1x Review)
+- Scientific Reports (1x Review)
+
+## Professional Skills and Competencies
+
+- Providing pharmaceutical care in community pharmacy practice
+- Education in the Quality Use of Medicines, ethical decision-making in health and related fields, social pharmacy and pharmacoepidemiology
+- Interdisciplinary collaboration with prescribers and other health professionals
+- Accrual and reporting of Continuing Professional Development (CPD) as per the Pharmacy Board of Australia regulations.
+- Proficient in academic writing and the use of writing and referencing software such as the Microsoft suite, Endnote, Zotero.
+- Competent in the use of R and R packages including academic writing packages such as RMarkdown and Quarto.
+- Conducting and managing independent research
+
+## Seminar and Conference attendance
+
+`2022`
+__APSA-ASCEPT 2022 Joint Conference__
+
+`2023`
+__81st FIP World Congress of Pharmacy and Pharmaceutical Sciences__
+
+`2023`
+__Australasian Association of Bioethics and Health Law Conference 2023__
+
+`2024`
+__ASCEPT, APFP, APSA Joint Congress__
+
+`Ongoing`
+__Regular attendance at the UQ School of Pharmacy and Pharmaceutical Sciences seminar series__
+
+## Presentations
+
+`2022`
+
+
 ## Awards
 
 `2012`
