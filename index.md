@@ -111,19 +111,19 @@ __Peer Reviewer__
 
 ## Professional Skills and Competencies
 
-- Providing pharmaceutical care in community pharmacy practice
+Providing pharmaceutical care in community pharmacy practice
   
-- Education in the Quality Use of Medicines, ethical decision-making in health and related fields, social pharmacy and pharmacoepidemiology
+Education in the Quality Use of Medicines, ethical decision-making in health and related fields, social pharmacy and pharmacoepidemiology
   
-- Interdisciplinary collaboration with prescribers and other health professionals
+Interdisciplinary collaboration with prescribers and other health professionals
   
-- Accrual and reporting of Continuing Professional Development (CPD) as per the Pharmacy Board of Australia regulations.
+Accrual and reporting of Continuing Professional Development (CPD) as per the Pharmacy Board of Australia regulations.
   
-- Proficient in academic writing and the use of writing and referencing software such as the Microsoft suite, Endnote, Zotero.
+Proficient in academic writing and the use of writing and referencing software such as the Microsoft suite, Endnote, Zotero.
   
-- Competent in the use of R and R packages including academic writing packages such as RMarkdown and Quarto.
+Competent in the use of R and R packages including academic writing packages such as RMarkdown and Quarto.
   
-- Conducting and managing independent and collaborative research projects
+Conducting and managing independent and collaborative research projects
 
 ## Seminar and Conference attendance
 
