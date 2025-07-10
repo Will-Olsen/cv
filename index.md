@@ -7,7 +7,7 @@ Pharmacist, Pharmacy Ethicist, Lecturer.
 
 <div id="webaddress">
 <a href="williamhinton99@gmail.com">williamhinton99@gmail.com</a>
-| <a href="https://williamolsen.substack.com/">My substack page</a>
+<!-- | <a href="https://williamolsen.substack.com/">My substack page</a> -->
 </div>
 
 
