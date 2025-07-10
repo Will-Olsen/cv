@@ -105,7 +105,7 @@ __Grant Review Committee Member__ Metro South Health Research Support Scheme
 __Peer Reviewer__
 
 - BMC Medical Ethics (1x Review)
-- Exploratory Research in Clinical and Social Pharmacy (5x Reviews)
+- Exploratory Research in Clinical and Social Pharmacy (6x Reviews)
 - Drug and Alcohol Review (1x Review)
 - Scientific Reports (1x Review)
 
@@ -169,6 +169,15 @@ __ASCEPT, APFP & APSA Joint Congress 2024__
 
 - A model of shared responsibility in pharmacy practice (Oral presentation)
 
+`2024`
+__Royal Brisbane and Women's Hospital Pharmacy Department__
+
+- Ethical decision-making and professional responsibility in pharmacy practice (Workshop)
+
+`2025`
+__ADeN Deprescribing Learning Club__
+
+- What can ethics research accomplish for deprescribing? (Oral presentation)
 
 ## Key publications
 
