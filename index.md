@@ -3,7 +3,7 @@ layout: cv
 title: William Manning Olsen
 ---
 # William Manning Olsen
-Pharmacist, Pharmacy Ethicist, Lecturer.
+BPharm(Hons) PhD AFHEA
 
 <div id="webaddress">
 <a href="williamhinton99@gmail.com">williamhinton99@gmail.com</a>
@@ -13,7 +13,7 @@ Pharmacist, Pharmacy Ethicist, Lecturer.
 
 ## Currently
 
-Lecturer and Senior Research Officer (Level B) at the School of Pharmacy and Pharmaceutical Sciences at the University of Queensland.
+Lecturer and Research Fellow (Level B) at the School of Pharmacy and Pharmaceutical Sciences at the University of Queensland.
 
 ### Specialized in
 
